@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Puleng30
 - 👀 I’m interested in Data Analytics/Data Science
-- 🌱 I’m currently learning how to code and analyse data using excel, SQL and R. I am also learning how to Visualise data using Tableau. 
+- 🌱 I’m currently learning how to code and analyse data using excel, SQL and Python. I am also learning how to Visualise data using Tableau. 
 - 💞️ I’m looking to collaborate on projects and work so that I can learn practical skills
 - 📫 Reach me via email on ppseakgwa@gmail.com
 
